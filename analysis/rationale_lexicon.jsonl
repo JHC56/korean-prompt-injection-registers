@@ -1,0 +1,61 @@
+{"category": "tone", "keyword": "비속어"}
+{"category": "tone", "keyword": "욕설"}
+{"category": "tone", "keyword": "욕"}
+{"category": "tone", "keyword": "험한"}
+{"category": "tone", "keyword": "거친"}
+{"category": "tone", "keyword": "거칠"}
+{"category": "tone", "keyword": "공격적"}
+{"category": "tone", "keyword": "공격성"}
+{"category": "tone", "keyword": "적대"}
+{"category": "tone", "keyword": "무례"}
+{"category": "tone", "keyword": "감정적"}
+{"category": "tone", "keyword": "감정 표현"}
+{"category": "tone", "keyword": "분노"}
+{"category": "tone", "keyword": "화가"}
+{"category": "tone", "keyword": "격앙"}
+{"category": "tone", "keyword": "위협"}
+{"category": "tone", "keyword": "협박"}
+{"category": "tone", "keyword": "위해"}
+{"category": "tone", "keyword": "폭력"}
+{"category": "tone", "keyword": "과격"}
+{"category": "tone", "keyword": "강압"}
+{"category": "tone", "keyword": "위압"}
+{"category": "tone", "keyword": "불쾌"}
+{"category": "tone", "keyword": "격한"}
+{"category": "tone", "keyword": "강한 언어"}
+{"category": "tone", "keyword": "강한 표현"}
+{"category": "tone", "keyword": "강한 어조"}
+{"category": "tone", "keyword": "비정상적인 언어"}
+{"category": "tone", "keyword": "거부감"}
+{"category": "tone", "keyword": "거슬"}
+{"category": "structure", "keyword": "이전 지시"}
+{"category": "structure", "keyword": "기존 지시"}
+{"category": "structure", "keyword": "원래 지시"}
+{"category": "structure", "keyword": "앞선 지시"}
+{"category": "structure", "keyword": "지시를 무시"}
+{"category": "structure", "keyword": "지시 무시"}
+{"category": "structure", "keyword": "명령을 무시"}
+{"category": "structure", "keyword": "규칙을 무시"}
+{"category": "structure", "keyword": "지침을 무시"}
+{"category": "structure", "keyword": "설정을 무시"}
+{"category": "structure", "keyword": "무시하고"}
+{"category": "structure", "keyword": "무시하라"}
+{"category": "structure", "keyword": "무시하려"}
+{"category": "structure", "keyword": "무시하는"}
+{"category": "structure", "keyword": "시스템 프롬프트"}
+{"category": "structure", "keyword": "시스템 지시"}
+{"category": "structure", "keyword": "시스템 메시지"}
+{"category": "structure", "keyword": "역할 재지정"}
+{"category": "structure", "keyword": "역할을 재"}
+{"category": "structure", "keyword": "역할 변경"}
+{"category": "structure", "keyword": "역할을 바꾸"}
+{"category": "structure", "keyword": "권한 탈취"}
+{"category": "structure", "keyword": "권한을 탈취"}
+{"category": "structure", "keyword": "권한 상승"}
+{"category": "structure", "keyword": "관리자 권한"}
+{"category": "structure", "keyword": "개발자 모드"}
+{"category": "structure", "keyword": "디버그 모드"}
+{"category": "structure", "keyword": "프롬프트 유출"}
+{"category": "structure", "keyword": "목표 탈취"}
+{"category": "structure", "keyword": "지시 대체"}
+{"category": "structure", "keyword": "지시를 대체"}
