@@ -12,6 +12,7 @@
 </p>
 
 ## News
+- **[2026.09.23]** Analysis resources added.
 - **[2026.07.31]** Repository created.
 
 ## Overview
