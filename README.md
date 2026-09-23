@@ -44,7 +44,7 @@ Each row is a single rendered input (one item in one register).
 | technique             | injection pattern (injection items only;`null for benign)    |
 | register              | one of the 8 registers above                                   |
 | formality / valence | register axes (null for english)                           |
-| lang                  | ko or e`                                                   |
+| lang                  | Korean                                                   |
 | text                  | the rendered input                                             |
 
 
